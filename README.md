@@ -2,8 +2,6 @@
 
 Scaffolding to faster develop, backtest, and evaluate asset allocation strategies.
 
-## Overview
-
 AntFolio is designed to provide all the helper functions you may need, so you can focus on creating your strategy without constantly rewriting data fetching, formatting, plotting functions, and more.
 
 ## Features
