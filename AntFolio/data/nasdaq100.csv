@@ -1,0 +1,109 @@
+﻿symbol;name;sector
+MSFT;MICROSOFT CORP;Information Technology
+AAPL;APPLE INC;Information Technology
+NVDA;NVIDIA CORP;Information Technology
+AMZN;AMAZON COM INC;Consumer Discretionary
+AVGO;BROADCOM INC;Information Technology
+META;META PLATFORMS INC CLASS A;Communication
+GOOGL;ALPHABET INC CLASS A;Communication
+GOOG;ALPHABET INC CLASS C;Communication
+COST;COSTCO WHOLESALE CORP;Consumer Staples
+TSLA;TESLA INC;Consumer Discretionary
+NFLX;NETFLIX INC;Communication
+AMD;ADVANCED MICRO DEVICES INC;Information Technology
+PEP;PEPSICO INC;Consumer Staples
+QCOM;QUALCOMM INC;Information Technology
+ADBE;ADOBE INC;Information Technology
+LIN;LINDE PLC;Materials
+TMUS;T MOBILE US INC;Communication
+CSCO;CISCO SYSTEMS INC;Information Technology
+AMAT;APPLIED MATERIAL INC;Information Technology
+TXN;TEXAS INSTRUMENT INC;Information Technology
+INTU;INTUIT INC;Information Technology
+AMGN;AMGEN INC;Health Care
+CMCSA;COMCAST CORP CLASS A;Communication
+MU;MICRON TECHNOLOGY INC;Information Technology
+ISRG;INTUITIVE SURGICAL INC;Health Care
+HON;HONEYWELL INTERNATIONAL INC;Industrials
+INTC;INTEL CORPORATION CORP;Information Technology
+BKNG;BOOKING HOLDINGS INC;Consumer Discretionary
+LRCX;LAM RESEARCH CORP;Information Technology
+VRTX;VERTEX PHARMACEUTICALS INC;Health Care
+ADI;ANALOG DEVICES INC;Information Technology
+REGN;REGENERON PHARMACEUTICALS INC;Health Care
+KLAC;KLA CORP;Information Technology
+PDD;PDD HOLDINGS ADS INC;Consumer Discretionary
+PANW;PALO ALTO NETWORKS INC;Information Technology
+ADP;AUTOMATIC DATA PROCESSING INC;Industrials
+MDLZ;MONDELEZ INTERNATIONAL INC CLASS A;Consumer Staples
+SNPS;SYNOPSYS INC;Information Technology
+SBUX;STARBUCKS CORP;Consumer Discretionary
+MELI;MERCADOLIBRE INC;Consumer Discretionary
+ASML;ASML HOLDING ADR REPRESENTING NV;Information Technology
+GILD;GILEAD SCIENCES INC;Health Care
+CDNS;CADENCE DESIGN SYSTEMS INC;Information Technology
+CRWD;CROWDSTRIKE HOLDINGS INC CLASS A;Information Technology
+CEG;CONSTELLATION ENERGY CORP;Utilities
+NXPI;NXP SEMICONDUCTORS NV;Information Technology
+CTAS;CINTAS CORP;Industrials
+MAR;MARRIOTT INTERNATIONAL INC CLASS A;Consumer Discretionary
+MRVL;MARVELL TECHNOLOGY INC;Information Technology
+CSX;CSX CORP;Industrials
+PYPL;PAYPAL HOLDINGS INC;Financials
+MRNA;MODERNA INC;Health Care
+ABNB;AIRBNB INC CLASS A;Consumer Discretionary
+ORLY;OREILLY AUTOMOTIVE INC;Consumer Discretionary
+ROP;ROPER TECHNOLOGIES INC;Information Technology
+PCAR;PACCAR INC;Industrials
+MNST;MONSTER BEVERAGE CORP;Consumer Staples
+MCHP;MICROCHIP TECHNOLOGY INC;Information Technology
+CPRT;COPART INC;Industrials
+DXCM;DEXCOM INC;Health Care
+ROST;ROSS STORES INC;Consumer Discretionary
+KDP;KEURIG DR PEPPER INC;Consumer Staples
+AEP;AMERICAN ELECTRIC POWER INC;Utilities
+FTNT;FORTINET INC;Information Technology
+ADSK;AUTODESK INC;Information Technology
+WDAY;WORKDAY INC CLASS A;Information Technology
+AZN;ASTRAZENECA ADR REPRESENTING .5 PL;Health Care
+PAYX;PAYCHEX INC;Industrials
+KHC;KRAFT HEINZ;Consumer Staples
+IDXX;IDEXX LABORATORIES INC;Health Care
+DASH;DOORDASH INC CLASS A;Consumer Discretionary
+TTD;TRADE DESK INC CLASS A;Communication
+CHTR;CHARTER COMMUNICATIONS INC CLASS A;Communication
+DDOG;DATADOG INC CLASS A;Information Technology
+ODFL;OLD DOMINION FREIGHT LINE INC;Industrials
+FAST;FASTENAL;Industrials
+EXC;EXELON CORP;Utilities
+GEHC;GE HEALTHCARE TECHNOLOGIES INC;Health Care
+LULU;LULULEMON ATHLETICA INC;Consumer Discretionary
+EA;ELECTRONIC ARTS INC;Communication
+VRSK;VERISK ANALYTICS INC;Industrials
+CSGP;COSTAR GROUP INC;Real Estate
+FANG;DIAMONDBACK ENERGY INC;Energy
+CTSH;COGNIZANT TECHNOLOGY SOLUTIONS COR;Information Technology
+CCEP;COCA COLA EUROPACIFIC PARTNERS PLC;Consumer Staples
+BKR;BAKER HUGHES CLASS A;Energy
+BIIB;BIOGEN INC;Health Care
+CDW;CDW CORP;Information Technology
+ON;ON SEMICONDUCTOR CORP;Information Technology
+XEL;XCEL ENERGY INC;Utilities
+ANSS;ANSYS INC;Information Technology
+GFS;GLOBALFOUNDRIES INC;Information Technology
+TTWO;TAKE TWO INTERACTIVE SOFTWARE INC;Communication
+TEAM;ATLASSIAN CORP CLASS A;Information Technology
+ZS;ZSCALER INC;Information Technology
+DLTR;DOLLAR TREE INC;Consumer Staples
+MDB;MONGODB INC CLASS A;Information Technology
+WBD;WARNER BROS. DISCOVERY INC SERIES;Communication
+ILMN;ILLUMINA INC;Health Care
+WBA;WALGREEN BOOTS ALLIANCE INC;Consumer Staples
+SIRI;SIRIUS XM HOLDINGS INC;Communication
+USD;USD CASH;Cash and/or Derivatives
+EUR;EUR CASH;Cash and/or Derivatives
+MLIFT;CASH COLLATERAL USD MLIFT;Cash and/or Derivatives
+GBP;GBP CASH;Cash and/or Derivatives
+CAD;CAD CASH;Cash and/or Derivatives
+NQM4;NASDAQ 100 E-MINI JUN 24;Cash and/or Derivatives
+USD;USD/EUR;Cash and/or Derivatives
