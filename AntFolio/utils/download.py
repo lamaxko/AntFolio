@@ -21,9 +21,18 @@ def download_data(tickers_df: pd.DataFrame, start_date: str, end_date: str) -> (
     if cols_with_all_nan:
         data = data.drop(columns=cols_with_all_nan)
 
-    tickers_remaining = [ticker for ticker in tickers if ticker not in tickers_to_remove]
-    updated_tickers_df = tickers_df[tickers_df['symbol'].isin(tickers_remaining)]
+    tickers_in_data = data['Adj Close'].columns
+    # make tickers in data to a df with the ticke as a rows in the column symbol and then merge with the tickers df
+    tickers_in_data = pd.DataFrame(tickers_in_data, columns=['symbol'])
+    tickers_in_data = tickers_df.merge(tickers_in_data, on='symbol', how='inner')
+    
+    # remove doublicate symbols for the tickers df
+    tickers_in_data = tickers_in_data.drop_duplicates(subset='symbol')
+    
 
-    logging.info(f"From the initial {tickers_before} tickers, {len(tickers_remaining)} were successfully downloaded and retained.")
+    logging.info(f"From the initial {tickers_before} tickers, {len(tickers_in_data)} were successfully downloaded and retained.")
 
-    return data, updated_tickers_df
+    # create combinded df wiht column one containing the tickers in the data cold and col 2 the ticker of the updated tickers df
+    aligned_df = pd.DataFrame(data['Adj Close'].columns, columns=['symbol'])
+
+    return data, tickers_in_data
